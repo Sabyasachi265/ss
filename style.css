@@ -1,0 +1,30 @@
+.heading{
+    width: 100%;
+}
+
+.imp{
+float: right;
+border: 1px solid white;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.mario{
+width: 100%;
+}
+
+#gaming, #heading3{
+    font-size: 22px;
+
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.instruction_image{
+    display: inline-block;
+    width: 45%;
+}
